@@ -12,9 +12,10 @@ demo在[这里](http://61.155.169.52:8080/CesiumNavigationUmd/demo/index.html)�
 
 
 效果图
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200107165327365.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI5NzIyMjgx,size_16,color_FFFFFF,t_70)
+<img src="https://img-blog.csdnimg.cn/2020010717400915.png" width=800 height=400>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200107165213958.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI5NzIyMjgx,size_16,color_FFFFFF,t_70)
+
+<img src="https://img-blog.csdnimg.cn/20200107174027621.png" width=800 height=400>
 
 ## 修改说明
 
