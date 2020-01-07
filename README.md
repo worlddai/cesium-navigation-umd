@@ -10,8 +10,6 @@ demo在[这里](http://61.155.169.52:8080/CesiumNavigationUmd/demo/index.html)�
 
 [原作者github主页](https://github.com/richard1015/cesium-navigation-es6)
 
-
-效果图
 <img src="https://img-blog.csdnimg.cn/2020010717400915.png" width=800 height=400>
 
 
@@ -25,7 +23,7 @@ demo在[这里](http://61.155.169.52:8080/CesiumNavigationUmd/demo/index.html)�
 
 - 所有依赖cesium.js的import
 
-在src目录添加cesium文件夹。内部默认导出`window.Cesium`,所以打包生产的`CesiumNavigation.umd.js` 依赖Cesium环境，需要在htm中手动引入
+在src目录添加cesium文件夹。内部默认导出`window.Cesium`,所以打包生产的`CesiumNavigation.umd.js` 依赖Cesium环境，需要在html中手动引入
 
 ## 使用说明
 
