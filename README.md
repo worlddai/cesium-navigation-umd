@@ -1,6 +1,10 @@
 # cesium-navigation-umd
 这是一个基于cesium-navigation-es6 迁移的仓库。我使用rollup重新编译了原作者的release。去掉了dev依赖。dist中内容为编译产物。可以直接引用。
 
+demo在[这里](http://61.155.169.52:8080/CesiumNavigationUmd)（受到带宽限制，加载可能略慢）
+
+如果不能看，可以看[原作者的](https://richard1015.github.io/cesium/)
+
 感谢原作者的源码。
 
 [原作者github主页](https://github.com/richard1015/cesium-navigation-es6)
@@ -18,7 +22,7 @@
 
 ## 使用说明
 
-- 如果你的Cesium没有挂载在window下，那么修改`src/cesium/Cesium.js`，改为你对应的引用
+- 如果你的Cesium没有挂载在window下，那么修改`src/cesium/Cesium.js`，改为你对应的引用，然后运行`npm run build`
 
 - 在html文件中引用Cesium和Cesium必要样式表
 
@@ -54,6 +58,13 @@ var options = {};
     options.enableCompassOuterRing = true;
     CesiumNavigation.umd(viewer, options);
 
+```
+
+
+## 编译说明
+
+```bash
+npm run build 
 ```
 
 
